@@ -1,0 +1,12 @@
+.textContent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.8rem;
+    line-height: 3rem;
+    padding-left: 35px;
+}
+
+.text {
+    margin-bottom: 60px;
+}

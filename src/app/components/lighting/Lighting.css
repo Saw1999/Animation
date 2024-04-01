@@ -1,0 +1,19 @@
+.lighting {
+    border-radius: 10px;
+    border: 1px solid var(--color-border);
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+.lightingImgs {
+    width : 100%;
+    background: rgb(5, 5, 11);
+    display: flex;
+    justify-content: space-around;
+    border-radius: 10px;
+    gap: 30px;
+    &:hover {
+        border:1px solid #FBA834;
+    }
+}
